@@ -23,10 +23,7 @@ Application discord bot for displaying records stuff on website "mk8dxwr.com"
 * displaying player rankings
 or more
 
-#setup
-* run ```pip install -r requirements.txt```
-* switch `example_env.` to `env.` and put for your own discord token
-* recommended python version `3.10.6`
+
 
 
 
