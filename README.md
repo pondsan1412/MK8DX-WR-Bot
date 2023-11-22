@@ -1,6 +1,6 @@
 # MK8DX-Records (discord bot)
-
 Application discord bot for displaying records stuff on website "mk8dxwr.com"
+
 ---
 >**progress**
 >#### 2023-11-22 MK8DX Records project start
