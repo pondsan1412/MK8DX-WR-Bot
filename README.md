@@ -5,8 +5,8 @@ Application discord bot for displaying records stuff on website "mk8dxwr.com"
 >**progress**
 >#### 2023-11-22 MK8DX Records project start
 >
-# [invite bot to your server]([https://discord.gg/zvSxSk2](https://discord.com/api/oauth2/authorize?client_id=1176807126618878033&permissions=8&scope=bot))
-## Websites
+# [invite bot to your server]([https://discord.gg/zvSxSk2](https://discord.com/api/oauth2/authorize?client_id=1176807126618878033&permissions=8&scope=bot)
+
 
 
 ## Example wr feature to displaying world record table
