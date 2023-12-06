@@ -23,7 +23,7 @@
   height: 206px;
   transition-duration: 0.5s;
   box-shadow: 0px 0px 8px 2px rgba(128,128,128,1);
-  background-image: url("https://cdn.discordapp.com/attachments/1176922445941313617/1177138062875168808/tSTPyifEQDO1h65-CeBaLA.webp?ex=65716a40&is=655ef540&hm=a0f21410f2c31a395715308104124f391d2e518544008bb80664a675e8697488&");
+  background-image: url("https://cdn.discordapp.com/attachments/1176922445941313617/1181838263313498122/Rip.png?ex=658283a7&is=65700ea7&hm=6b17082d0153d9180b52f35c0a3a35732a70204f18b4db25bc55668639d704a8&");
   background-position: 50% 50%;
   margin: 54px auto 0;
 }
@@ -522,8 +522,8 @@
 }
 
 .u-section-3 .u-image-1 {
-  width: 333px;
-  height: 345px;
+  width: 521px;
+  height: 841px;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -664,8 +664,8 @@
 }
 
 .u-section-4 .u-image-1 {
-  width: 333px;
-  height: 345px;
+  width: 162px;
+  height: 39px;
   --animation-custom_in-translate_x: -300px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -822,8 +822,8 @@
 }
 
 .u-section-5 .u-image-1 {
-  width: 333px;
-  height: 345px;
+  width: 85px;
+  height: 42px;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
