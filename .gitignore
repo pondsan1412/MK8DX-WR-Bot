@@ -1,3 +1,10 @@
 
 gif preview.gif
 LICENSE
+.env
+keep_tk.py
+main.py
+test.py
+test1.py
+time_different.py
+run.bat

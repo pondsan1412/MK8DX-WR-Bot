@@ -1,3 +1,8 @@
+/* ตัวอย่างไฟล์ CSS */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("https://i.imgur.com/q3KDKMT.jpg"); 
   background-position: 50% 50%;
