@@ -4,7 +4,7 @@
 @import 'tailwindcss/utilities';
 
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("https://i.imgur.com/q3KDKMT.jpg"); 
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("https://www.thesun.co.uk/wp-content/uploads/2022/07/mario-kart-8-booster-course.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"); 
   background-position: 50% 50%;
 }
 
