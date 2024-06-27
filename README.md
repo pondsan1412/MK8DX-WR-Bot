@@ -1,6 +1,6 @@
 
 # MK8DX-Records (discord bot)
-Application discord bot for displaying records stuff on website "mk8dxwr.com"
+Application discord bot for displaying records, videos, and more!
 
 ---
 >**IN PROGRESS**
