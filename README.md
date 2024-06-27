@@ -5,7 +5,7 @@ Application discord bot for displaying records, videos, and more!
 ---
 >**IN PROGRESS**
 >#### 2023-11-22 MK8DX Records project start
->
+>#### 2024-06-26 add useful buttons twitter, previous video and add more commands
 # [invite bot to your server (Click)](https://pondsan1412.github.io/MK8DX-WR-Bot/))
 
 
