@@ -11,7 +11,7 @@ Application discord bot for displaying records stuff on website "mk8dxwr.com"
 
 
 ## Example wr feature to displaying world record table
-![image](![image](https://github.com/pondsan1412/MK8DX-WR-Bot/assets/107555040/e305f850-434a-4725-a427-19f4a8af291e)
+(![image](https://github.com/pondsan1412/MK8DX-WR-Bot/assets/107555040/e305f850-434a-4725-a427-19f4a8af291e)
 )
 
 
