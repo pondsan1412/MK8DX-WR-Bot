@@ -15,17 +15,15 @@ Application discord bot for displaying records stuff on website "mk8dxwr.com"
 )
 
 
-## COMMANDS (for user) // default prefix is "." 
+## COMMANDS (for user) // default prefix is "?" 
 * `[prefix] wr [abbr of anytrack] ` to displaying currently world records (verified record)
-* `[prefix or @yourbot] setup_prefix` custom bot's prefix in your own server
+* `[prefix] iwr ` to displaying currently world records (for inwardbike)
+* `[prefix] rank ` Shown the top 10 players who break mostly of WR times.
+* `[prefix] help ` try use it.
   
 ## future feature and command
-* displaying table both of 150cc and 200cc world record
-* displaying country rankings
-* displaying player rankings
-or more
+* show up player's team
+* show up team roaster
 
-
-bruh
 
 
