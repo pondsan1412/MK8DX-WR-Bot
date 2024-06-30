@@ -28,6 +28,8 @@ Application discord bot for displaying records, videos, and more!
 ## future feature and command
 * show up player's team
 * show up the roster
+* Recent World Records
+* mario kart speed run
 ## explaination
 here is video link: https://www.youtube.com/watch?v=hVBV-jGPSAg
 Our application, named WR MK8DX, is a Discord bot designed to provide users with detailed information about world records in various tracks from the game Mario Kart 8 Deluxe. The bot sends this information in an embed format, making it easy for users to view and interact with the data.
